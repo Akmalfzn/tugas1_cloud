@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>techidnet.com</title>
+    <title>tugascloud.co.id</title>
     <style type="text/css">
         .wrap {
             width: 1200px;
