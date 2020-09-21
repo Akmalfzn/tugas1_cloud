@@ -2,9 +2,11 @@
 <html>
 <head>
     <title>tugascloud.co.id</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style type="text/css">
+    @media screen and (max-width:768px){
         .wrap {
-            width: 1200px;
+            width: 90%;
             margin: 35px 85px;
         }
 
@@ -12,7 +14,7 @@
         .wrap .logo{
             background : white;
             height: 180px;
-            width: 250px;
+            width: 30%;
             border-style: groove;
             border-width: 2px;
             float: left;
@@ -21,7 +23,7 @@
         .wrap .header{
             background : #2EC4B6 ;
             height: 180px;
-            width: 900px;
+            width: 70%;
             border-style: groove;
             border-width: 2px;
             float: left;
@@ -39,7 +41,7 @@
             background : white;
             padding-top: 50px;
             height: 600px;
-            width: 1155px;
+            width: 100%;
             border-style: groove;
             border-width: 2px;
             float: left;
@@ -54,12 +56,13 @@
             padding-left: 20px;
             padding-top: 5px;
             height: 30px;
-            width: 1135px;
+            width: 100%;
             border-style: groove;
             border-width: 2px;
             float: left;
         }
         /*Akhir Footer*/
+     }
 
         h1{
             padding-left: 300px;
